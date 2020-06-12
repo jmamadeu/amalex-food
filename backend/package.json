@@ -1,0 +1,9 @@
+{
+  "name": "amalexfood",
+  "version": "1.0.0",
+  "description": "Project for products sale",
+  "main": "src/server.ts",
+  "repository": "https://github.com/jmamadeu/amalex-food.git",
+  "author": "João Amadeu",
+  "license": "MIT"
+}
